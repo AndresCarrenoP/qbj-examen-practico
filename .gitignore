@@ -28,3 +28,6 @@ out
 
 #iml file
 *.iml
+
+#others
+screenshot_extras.jpg
