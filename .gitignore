@@ -25,6 +25,7 @@ hs_err_pid*
 #sub directories
 .idea
 out
+META-INF
 
 #iml file
 *.iml
